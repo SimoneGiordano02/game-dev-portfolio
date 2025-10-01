@@ -9,9 +9,9 @@ Portfolio di progetti legati al game development e sistemi software correlati, s
 
 | Titolo | Descrizione breve | Link Repository | Note / Eseguibile |
 |---|---|---|---|
-| **Engine Programming – Platform 3D** | Platform 3D con visuale in terza persona, nemici, sistema di vita e monete | [Repo Platform3D](LINK_AL_REPO_PLATFORM3D) | Include sorgenti, asset e build Windows |
-| **Mobile Programming - PangLike** | Gioco in stile Pang con livelli, power-up e difficoltà crescente | [Repo PangLike](LINK_AL_REPO_PANGLIKE) | È presente un APK per Android nel repository |
-| **Marble Maze** | Gioco fisico in 3D dove si ruota il piano per muovere la pallina e farla arrivare al traguardo| [Repo MarbleMaze](LINK_AL_REPO_MARBLE_MAZE) | Basato unicamente sulla fisica |
+| **Engine Programming – Platform 3D** | Platform 3D con visuale in terza persona, nemici, sistema di vita e monete | [Repo Platform3D](https://github.com/SimoneGiordano02/Platform3D) | Include sorgenti, asset e build Windows |
+| **Mobile Programming - PangLike** | Gioco in stile Pang con livelli, power-up e difficoltà crescente | [Repo PangLike](https://github.com/SimoneGiordano02/Pang-like_Mobile) | È presente un APK per Android nel repository |
+| **Marble Maze** | Gioco fisico in 3D dove si ruota il piano per muovere la pallina e farla arrivare al traguardo| [Repo MarbleMaze](https://github.com/SimoneGiordano02/Marble_Maze) | Basato unicamente sulla fisica |
 
 
 ---
@@ -20,7 +20,7 @@ Portfolio di progetti legati al game development e sistemi software correlati, s
 
 | Titolo | Descrizione breve | Link Repository |
 |---|---|---|
-| **Memory Manager - Advanced C++** | Sistema di memory management general purpose con allocatori, gestione leak, compatibilità STL | [Repo MemoryManager](LINK_AL_REPO_MEMORY_MANAGER) |
+| **Memory Manager - Advanced C++** | Sistema di memory management general purpose con allocatori, gestione leak, compatibilità STL | [Repo MemoryManager](https://github.com/SimoneGiordano02/Memory_Manager-Advanced_C-) |
 
 ---
 
