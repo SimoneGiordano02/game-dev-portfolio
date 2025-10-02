@@ -21,7 +21,7 @@ Portfolio di progetti legati al game development e sistemi software correlati, s
 | Titolo | Descrizione breve | Link Repository |
 |---|---|---|
 | **Memory Manager - Advanced C++** | Sistema di memory management general purpose con allocatori, gestione leak, compatibilità STL | [Repo MemoryManager](https://github.com/SimoneGiordano02/Memory_Manager-Advanced_C-) |
-
+| **FMOD Wrapper - Sound Programming** | Semplice wrapper per FMOD Core API, realizzato come libreria statica e accompagnato da un progetto demo a console | [Repo FMOD Wrapper](https://github.com/SimoneGiordano02/FMOD_Wrapper) |
 ---
 
 ## 🛠️ Come esplorare questo portfolio
