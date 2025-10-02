@@ -11,7 +11,8 @@ Portfolio di progetti legati al game development e sistemi software correlati, s
 |---|---|---|---|
 | **Engine Programming – Platform 3D** | Platform 3D con visuale in terza persona, nemici, sistema di vita e monete | [Repo Platform3D](https://github.com/SimoneGiordano02/Platform3D) | Include sorgenti, asset e build Windows |
 | **Mobile Programming - PangLike** | Gioco in stile Pang con livelli, power-up e difficoltà crescente | [Repo PangLike](https://github.com/SimoneGiordano02/Pang-like_Mobile) | È presente un APK per Android nel repository |
-| **Marble Maze** | Gioco fisico in 3D dove si ruota il piano per muovere la pallina e farla arrivare al traguardo| [Repo MarbleMaze](https://github.com/SimoneGiordano02/Marble_Maze) | Basato unicamente sulla fisica |
+| **Marble Maze** | Gioco fisico in 3D dove si ruota il piano per muovere la pallina e farla arrivare al traguardo | [Repo MarbleMaze](https://github.com/SimoneGiordano02/Marble_Maze) | Basato unicamente sulla fisica |
+| **Soapoon** | Gioco platform 1v1 sviluppato in 48 ore durante la GlobalGameJam 2025 | [Link itch](https://mickael-ordine.itch.io/soapoon) | Un gameplay scoppiettante! |
 
 
 ---
